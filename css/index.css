@@ -8,6 +8,10 @@ body {
   padding: 0;
 }
 
+.mobile-menu {
+  color: gray;
+}
+
 .logo > img {
   width: 50px;
 }
