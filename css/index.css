@@ -146,4 +146,8 @@ body {
   .main-content > :last-child {
     margin-bottom: unset;
   }
+
+  .social > li {
+      margin: auto;
+  }
 }
