@@ -14,7 +14,6 @@ body {
 
 .styled-header {
   padding: 10px;
-
 }
 
 .navbar {
@@ -42,7 +41,6 @@ body {
 
   border-radius: 20px;
   display: flex;
-  margin: 20px 0px;
   box-sizing: border-box;
   padding: 20px;
   text-align: center;
@@ -82,6 +80,8 @@ body {
     flex-direction: column;
     justify-content: center;
     align-items: center;
+    margin: 20px 0px;
+
   }
 
   .main-content {
@@ -121,8 +121,12 @@ body {
     display: flex;
   }
 
-  .desktop-menu > li {
-    
+  .product {
+    margin: 0 50px;
+  }
+
+  section {
+    margin: 0px 20px;
   }
 
   .main-content > :last-child {
